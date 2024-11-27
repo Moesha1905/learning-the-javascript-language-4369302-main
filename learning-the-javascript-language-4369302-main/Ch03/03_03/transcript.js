@@ -11,7 +11,7 @@ var bird = {
 
 bird.quote;
 
-bird."quote"; // this does not work
+bird.quote; // this does not work
 
 bird["quote"];
 
