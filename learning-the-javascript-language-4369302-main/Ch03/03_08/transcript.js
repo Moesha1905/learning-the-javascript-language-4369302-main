@@ -1,7 +1,7 @@
 // another after the slashes does not execute
 var year = 2012,
   month = "October", // this is the month
-  // day = 31,
+  day = 31,
   holiday = "Halloween";
 
 /*
